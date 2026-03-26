@@ -1,0 +1,74 @@
+# ============================================================
+# Rapchick Engine — Samsung Galaxy S26 Ultra (SM-S948B) Spoof
+# Android 16 | One UI 8.5 | SukiSU Ultra
+# Author: Ozyern (@reimagine)
+# ============================================================
+
+# --- Core product ---
+ro.product.brand=samsung
+ro.product.manufacturer=samsung
+ro.product.name=SM-S948B
+ro.product.device=e3q
+ro.product.model=SM-S948B
+ro.product.marketname=Galaxy S26 Ultra
+
+# --- System partition ---
+ro.product.system.brand=samsung
+ro.product.system.manufacturer=samsung
+ro.product.system.name=SM-S948B
+ro.product.system.device=e3q
+ro.product.system.model=SM-S948B
+
+# --- Vendor partition ---
+ro.product.vendor.brand=samsung
+ro.product.vendor.manufacturer=samsung
+ro.product.vendor.name=SM-S948B
+ro.product.vendor.device=e3q
+ro.product.vendor.model=SM-S948B
+
+# --- ODM partition ---
+ro.product.odm.brand=samsung
+ro.product.odm.manufacturer=samsung
+ro.product.odm.name=SM-S948B
+ro.product.odm.device=e3q
+ro.product.odm.model=SM-S948B
+
+# --- Product partition ---
+ro.product.product.brand=samsung
+ro.product.product.manufacturer=samsung
+ro.product.product.name=SM-S948B
+ro.product.product.device=e3q
+ro.product.product.model=SM-S948B
+
+# --- Attestation props (Play integrity) ---
+ro.product.brand_for_attestation=samsung
+ro.product.device_for_attestation=e3q
+ro.product.manufacturer_for_attestation=samsung
+ro.product.model_for_attestation=SM-S948B
+ro.product.name_for_attestation=SM-S948B
+
+# --- Build ---
+ro.build.product=e3q
+ro.build.brand=samsung
+ro.build.manufacturer=samsung
+ro.build.tags=release-keys
+ro.build.type=user
+
+# --- Android 16 / One UI 8.5 ---
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2026-03-01
+ro.build.characteristics=phone
+
+# --- Fingerprints ---
+ro.build.fingerprint=samsung/SM-S948BXXU1AXC1/e3q:16/AP4A.260301.001/S948BXXU1AXC1:user/release-keys
+ro.system.build.fingerprint=samsung/SM-S948BXXU1AXC1/e3q:16/AP4A.260301.001/S948BXXU1AXC1:user/release-keys
+ro.vendor.build.fingerprint=samsung/SM-S948BXXU1AXC1/e3q:16/AP4A.260301.001/S948BXXU1AXC1:user/release-keys
+ro.product.build.fingerprint=samsung/SM-S948BXXU1AXC1/e3q:16/AP4A.260301.001/S948BXXU1AXC1:user/release-keys
+ro.odm.build.fingerprint=samsung/SM-S948BXXU1AXC1/e3q:16/AP4A.260301.001/S948BXXU1AXC1:user/release-keys
+
+# --- One UI ---
+ro.build.version.oneui=80500
+ro.vendor.build.version.oneui=80500
+ro.build.host=SWDD6710
+ro.system.build.type=user

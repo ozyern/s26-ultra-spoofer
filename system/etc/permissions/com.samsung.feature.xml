@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Rapchick Engine — Samsung Galaxy S26 Ultra Spoof
+    Samsung software feature declarations
+    Author: Ozyern (@reimagine)
+-->
+<permissions>
+    <feature name="com.samsung.feature.galaxyfinder_v7" />
+    <feature name="com.samsung.feature.samsungpay_ver_03.8" />
+    <feature name="com.samsung.feature.aremoji" />
+    <feature name="com.samsung.feature.cover_flip" />
+</permissions>
